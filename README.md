@@ -1,5 +1,5 @@
+import java.util.Scanner;
 class Main {
-  import java.util.Scanner;
   public void read(){
     Scanner object = new Scanner(System.in);
     Int year = object.nextLine();
